@@ -13,6 +13,3 @@ $ flask --app <filename> run
 ```
 
 NOTE: add `--debug` to the end to run in debug mode.
-
-*visist https://zerotomastery.io/ for more*
-
